@@ -1,4 +1,4 @@
 # First-demo
 This is my first repository.
 <br>
-Author- Dipti singh.
+Author- Dipti singh(MNIT)
